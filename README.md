@@ -1,6 +1,5 @@
 # Sleep Soundscape App
 
-**(Briefly describe your app in 1-2 sentences. What is its main purpose?)**
  ** Sleep Soundscape helps users relax and fall asleep faster with a curated collection of soothing sounds and ambient atmospheres **
 
 <img width="3100" height="8000" alt="image" src="https://github.com/user-attachments/assets/76441340-cff4-42f9-a0bb-92cd36d5f7e4" />
@@ -96,5 +95,6 @@ This project is licensed under the [MIT License](LICENSE.md).
 This README was generated with assistance from the Android Studio AI Assistant.
 
     
+
 
 
